@@ -1,5 +1,4 @@
 import React from 'react';
-import '../index.css'
 import Box from './Box'
 
 class Grid extends React.Component {
